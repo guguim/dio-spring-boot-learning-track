@@ -25,8 +25,4 @@ Além do escopo base do desafio, foram adicionadas as seguintes evoluções:
 * **Categorização de Despesas:** A IA analisa o contexto da despesa ("comprei um lanche", "paguei a luz") e envia automaticamente a categoria adequada para a função de salvamento.
 * **Containerização:** Criação de `Dockerfile` para subir a aplicação de forma isolada e previsível.
 
-## ⚙️ Como executar a aplicação
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/nome-do-repo.git](https://github.com/SEU_USUARIO/nome-do-repo.git)
